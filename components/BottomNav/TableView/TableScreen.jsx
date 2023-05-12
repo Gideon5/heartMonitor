@@ -7,5 +7,4 @@ const TableScreen = () => {
       </View>
     );
   }
-
 export default TableScreen
