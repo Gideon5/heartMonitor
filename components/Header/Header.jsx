@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: 'white',
-    fontSize: 20,
+    fontSize:   20,
     fontWeight: 'bold',
   },
   menu: {
